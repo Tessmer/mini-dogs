@@ -24,7 +24,7 @@ Este projeto contém as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Mini Dogs é um projeto com a proposta de puxar dados de imagem, nomes, acessos de uma API utilizada no projeto [Dogs](https://github.com/Tessmer/dog). Conta também com um botão de carregar mais itens na lista. Foi produzido com o intuito de praticar react-redux.
+O Mini Dogs é um projeto com a proposta de puxar dados de imagem, nomes, acessos de uma API utilizada no projeto [Dogs](https://github.com/Tessmer/dogs). Conta também com um botão de carregar mais itens na lista. Foi produzido com o intuito de praticar react-redux.
 
 ## 🔖 Como Executar
 
